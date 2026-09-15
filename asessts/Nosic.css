@@ -1,0 +1,540 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand{
+    font-weight: 800;
+    background-color: white;
+}
+.navbar{
+   
+}
+.nav-link{
+    font-weight: 500;
+    margin: 10px;
+    color: #A06BEE;
+
+}
+.press{
+    width: 90px;
+    height: 50px;
+    border: 2px solid #A06BEE;
+    border-radius: 10px;
+    color: #A06BEE;
+  transition: 0.8s all ease-in-out;
+}
+
+.press:hover{
+    background-color: #001D68;
+    color: white;
+}
+.two h2{
+    color: #001D68;
+}
+.two h3{
+      color: #001D68;
+      /* font-size: small; */
+margin-top: 30px;      
+}
+.two p{
+    color: #001D68;
+}
+.two{
+    margin-top: 80px
+}
+.two img{
+    width: 480px;
+    height: 500px;
+    margin-left: 100px;
+}
+
+.two h1{
+   margin : 25px;
+   color: #001D68;
+}
+.two td{
+    margin: 15px;
+       /* padding : 10px; */
+   color:gray ;
+}
+.two span{
+   color: #5409E6;
+}
+
+
+
+
+.b{
+    width: 90px;
+    height: 50px;
+    border: 2px solid #001D68;
+    border-radius: 10px;
+    color: #A06BEE;
+  transition: 0.8s all ease-in-out;
+}
+
+.b:hover{
+    background-color: #001D68;
+    color: white;
+}
+
+
+ .three h3{
+    text-align: center;
+    margin-top: 180px;
+    margin-bottom: 50px;
+    color: #001D68;
+ }
+ .four button{
+    margin-left:45% ;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    
+ }
+ .four h3, .four p{
+text-align: center;
+ }
+ .four button{
+     width: 60px;
+    height: 30px;
+    font-size: small;
+    border: 2px solid #A06BEE;
+    border-radius: 10px;
+    color: #A06BEE;
+  transition: 0.8s all ease-in-out;
+ }
+ .four h3{
+    color: #001D68;
+ }
+ .four p{
+    color: #A06BEE;
+ }
+ .four p{
+    margin-bottom: 50px;
+ }
+ .five{
+    margin-top: 60px;
+    margin-bottom: 40px;
+ }
+ .card-body{
+    padding: 30px;
+ }
+ .card-title{
+    color: #001D68;
+ }
+ .card-text{
+    color: #001D68;
+ }
+ .card-link{
+    color: #A06BEE;
+    
+ }
+ .six p{
+   font-size: 12px;
+   color: #A06BEE;
+ }
+ .six h3{
+   color: #001D68;
+ }
+ 
+ .sec6{
+   margin-top: 70px;
+ }
+ .six img{
+   width: 400px;
+   height: 410px;
+ }
+  .six input{
+    font-size: 14px;
+    border: 1px solid #A06BEE;
+    border-radius: 10px;
+    color: #A06BEE;
+  transition: 0.8s all ease-in-out;
+  padding: 3px 7px;
+}
+.six ul{
+   list-style: none;
+}
+ .six ul li {
+   background-color: white;
+   margin-top: 10px;
+   padding: 10px 12px;
+   border: none;
+   width: 300px;
+ }
+ .six ul li select{
+   border: none;
+   width: 500px;
+   box-shadow: 0 0 10px gray;
+   padding: 10px 20px;
+   margin-right: 200px;
+ }
+ /* hhhhhhhhhhhhhhhhhhhhhh */
+
+ .sec7{
+   text-align: center;
+   margin-top: 50px;
+ }
+.blog input{
+   font-size: 14px;
+    border: 1px solid #A06BEE;
+    border-radius: 10px;
+    color: #A06BEE;
+  padding: 3px 7px;
+}
+.blog h2{
+   color: #001D68;
+   margin-top: 20px;
+}
+
+
+.control img{
+   width: 350px;
+   height: 350px;
+}
+.control h6{
+   font-size: 20px;
+   color: #001D68;
+   margin-top: 10px;
+}
+.control p{
+   color: #A06BEE;
+   font-size: 14px;
+
+}
+.control a{
+   text-decoration: none;
+   color: #001D68;
+   margin-top: 30px;
+   font-weight: bold;
+}
+
+
+
+.sec9{
+   margin-top: 70px;
+}
+.about img{
+   width: 400px;
+   height: 370px;
+}
+.about , .goals{
+   width: 500px;
+}
+.about input , .goals input{
+   font-size: 14px;
+    border: 1px solid #001D68;
+    border-radius: 10px;
+    color: #A06BEE;
+  padding: 3px 7px;
+  margin-top: 30px;
+   
+}
+.about h2 , .goals h2{
+   color: #001D68;
+   margin-top: 20px;
+   text-transform: capitalize;
+}
+.about h2 span , .goals h2 span{
+   color: blue;
+}
+.about p , .goals p{
+   color: #A06BEE;
+   font-size: 14px;
+   width: 340px;
+}
+.about button, .goals button{
+   color: #001D68;
+   background-color: #A06BEE;
+   padding: 10px 20px;
+   border-radius: 8px;
+   border: 1px solid #001D68;
+   margin-top: 20px;
+   transition: 0.4s all ease-in-out;
+}
+.about button:hover, .goals button:hover{
+   background-color: #001D68;
+   color: #A06BEE;
+}
+.sec11 ,.sec10{
+   margin-top: 120px;
+}
+
+
+
+.sec12{
+   margin-top: 70px;
+}
+.sec12 .plan{
+   text-align: center;
+}
+.sec12 .plan input{
+font-size: 14px;
+    border: 1px solid #001D68;
+    border-radius: 10px;
+    color: #A06BEE;
+  padding: 3px 7px;
+  margin-top: 30px;
+}
+.sec12 .plan h2{
+      color: #001D68;
+   margin-top: 20px;
+   text-transform: capitalize;
+}
+.sec12 .plan p{
+   color: #A06BEE;
+   font-size: 14px;
+}
+.basic{
+   box-shadow: 0 0 10px gray;
+   width: 370px;
+   padding: 30px;
+   margin-top: 40px;
+   border-radius: 6px;
+   transition: 0.4s all ease-in-out;
+   cursor: pointer;
+   margin-bottom: 40px;
+}
+.basic:hover{
+   background-color: #001D68;
+   transform: scale(1.1);
+}
+.basic:hover h2, .basic:hover h4,.basic:hover h6{
+   color: white;
+}
+.basic:hover h2 span{
+   color: #A06BEE;
+}
+.basic p{
+   color: #A06BEE;
+   font-size: 14px;
+}
+.basic h4{
+      transition: 0.4s all ease-in-out;
+
+}
+.basic h2{
+   color: #001D68;
+      transition: 0.4s all ease-in-out;
+
+}
+
+
+.basic h2 span{
+   color: #001D68;
+   font-size: 15px;
+      transition: 0.4s all ease-in-out;
+}
+.basic h6{
+   margin-top: 15px;
+      transition: 0.4s all ease-in-out;
+
+}
+.task{
+   margin-left: 30px;
+   margin-top: 20px;
+}
+.basic button{
+   width: 100%;
+   padding: 8px;
+   border-radius: 5px;
+   background-color: #001D68;
+   color: #A06BEE;
+   font-size: 14px;
+   border: none;
+   margin-top: 10px;
+      transition: 0.4s all ease-in-out;
+}
+.basic:hover button{
+   background-color: white;
+   color: #A06BEE;
+}
+.sec13{
+   margin-top: 70px;
+}
+.sec13 .happy{
+   text-align: center;
+}
+.sec13 .happy input{
+font-size: 14px;
+    border: 1px solid #001D68;
+    border-radius: 10px;
+    color: #A06BEE;
+  padding: 3px 7px;
+  margin-top: 30px;
+}
+.sec13 .happy h2{
+      color: #001D68;
+   margin-top: 20px;
+   text-transform: capitalize;
+}
+.sec13 .item{
+   width: 370px;
+   margin-top: 40px;
+}
+.sec13 .item p{
+   color: #A06BEE;
+   font-size: 14px;
+}
+.sec13 .item h6 span{
+   color: gray;
+   font-size: 13px;
+}
+.sec13 .item h6 img{
+   width: 40px;
+   height: 40px;
+}
+.sec14{
+   margin-top: 120px;
+}
+.start img{
+   width: 100%;
+}
+.sec16 span{
+   margin-left: 50%;
+   margin-top: 40px;
+   
+}
+.spann{
+   margin-top: 70px;
+}
+.sec16{
+   margin-top: 80px;
+}
+.sec15{
+   margin-bottom: 100px;
+   margin-top: 100px;
+}
+.sec15 .get{
+   text-align: center;
+}
+
+.sec15 button{
+border: none;
+   color: #A06BEE;
+   border-radius: 8px;
+   font-size: small;
+   padding: 5px;
+   
+}
+.sec15 h3{
+   margin-top: 15px;
+   color: #001D68;
+}
+.sec15 p{
+   color: #001D68;
+   font-size: 17px;
+   margin-top: 10px;
+}
+.sec16 button{
+   
+      width: 17%;
+   padding: 8px;
+   border-radius: 5px;
+   background-color: #001D68;
+   color: #A06BEE;
+   font-size: 14px;
+   border: none;
+   margin-top: 10px;
+      transition: 0.4s all ease-in-out;
+      margin-left: 100px;
+
+}
+.sec16{
+   margin-bottom: 100px;
+
+}
+.sec16  input{
+   border: 1px solid #001D68;
+   width:70% ;
+   margin-top:10px;
+}
+.sec16 .spann{
+   width: 180px;
+}
+.fom input{
+   /* height: 80px; */
+   width: 370px;
+   border-radius: 8px;
+   padding: 8px 20px;
+}
+.sec16 span input{
+   width: 180px;
+   margin-left: 210px;
+   
+}
+
+/*  */
+
+ .name{
+   box-sizing: border-box;
+   box-shadow: 0 0 10px gray;
+    width: 450px;
+    height: 550px;
+    padding: 40px;
+    border-radius: 12px;
+    
+      border-top:4px solid blue;
+    transition: 0.4s all ease-in-out;}
+    .down h3{
+color: #001D68;      
+    }
+    .down p{
+      color: #5409E6;
+    }
+    
+.down ul{
+   list-style: none;
+   background-color: transparent;
+}
+.down select{
+   width: 300px;
+   height: 40px;
+   margin-top: 20px;
+}
+.down select option:checked{
+background: linear-gradient(white, white);
+  background-color: white ; 
+  color: black ;
+}
+.one  span img{
+   margin: 5px;
+   width: 15%;
+   height: 25px;
+   border-radius: 50%;
+
+}
+.one h3{
+   margin-bottom: 30px;
+}
+.one p{
+   font-size: 14px;
+}
+.one button{
+   margin-top: 20px;
+   color: #5409E6;
+   height: 30px;
+   border: 1px solid #5409E6;
+   border-radius: 10px;
+   transition: 1s all ease-in-out;
+}
+.one button:hover{
+   background-color: #001D68;
+   color: white;
+   border: 1 px solid transparent;
+}
+.one h6{
+   color: white;
+}
+.sec17 p{
+   color: gray;
+}
+.sec17 h3{
+   margin-top: 70px;
+   padding: 20px;
+   color: white;
+}
+.sec17{
+   background-color: #22063F;
+}
+
